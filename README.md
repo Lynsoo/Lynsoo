@@ -7,12 +7,10 @@
     <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif" />
 </p>
 
-<h2> 🚀 &nbsp;Technical Skills & Tools I Work With</h2>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45"/>
-  <img src="https://api.iconify.design/ic/database.svg?color=%230070C0" alt="database" width="45" height="45"/>
-</p>
+## Skills 👩‍💻
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%23007ACC.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FF6C37.svg?style=for-the-badge&logo=huggingface&logoColor=white) ![MATLAB](https://img.shields.io/badge/matlab-%23007ACC.svg?style=for-the-badge&logo=matlab&logoColor=white)
+
+
+
+
 
