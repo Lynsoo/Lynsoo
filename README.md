@@ -1,5 +1,10 @@
 <h1> &nbsp;Hi, I'm Lyna ​✨</h1>
 <p> 👩🏻‍💻 AI & Computer Science student @ ENSAM Casablanca </p>
+
+<p align="center">
+    <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif" />
+</p>
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
